@@ -95,3 +95,10 @@ Was ist das Ergebnis?
 */
 // const x = new Date('2019-01-01');
 // console.log(typeof x);
+
+/*
+Frage 14
+Was ist das Ergebnis?
+*/
+// const x = function(y) { console.log(y); };
+// console.log(typeof x);

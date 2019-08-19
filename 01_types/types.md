@@ -1,5 +1,5 @@
 # Datentypen
-Laut ES-Standard existieren 5 bzw. 6 primite Datentypen, sowie "Object". Die primitiven Datentypen sind die folgenden:
+Laut ES-Standard existieren 5 bzw. 6 primitive Datentypen, sowie "Object". Die primitiven Datentypen sind die folgenden:
 - Undefined
 - Null
 - Boolean

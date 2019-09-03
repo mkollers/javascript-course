@@ -102,3 +102,17 @@ Was ist das Ergebnis?
 */
 // const x = function(y) { console.log(y); };
 // console.log(typeof x);
+
+/*
+Frage 15
+Was ist das Ergebnis?
+*/
+// const x = Infinity;
+// console.log(typeof x);
+
+/*
+Frage 16
+Was ist das Ergebnis?
+*/
+const x = NaN;
+console.log(typeof x);

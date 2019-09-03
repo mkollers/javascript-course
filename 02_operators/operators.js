@@ -37,28 +37,79 @@ Was ist das Ergebnis?
 Frage 6
 Was ist das Ergebnis?
 */
-// const x = 4 + '2';
+// const x = !true;
 // console.log(x);
 
 /*
 Frage 7
 Was ist das Ergebnis?
 */
-// const x = '4' - 2;
+// const x = !5;
 // console.log(x);
 
 /*
 Frage 8
 Was ist das Ergebnis?
 */
-// const x = 'schnitzel' + 1;
+// const x = !0;
 // console.log(x);
 
 /*
 Frage 9
 Was ist das Ergebnis?
 */
+// const x = !!!!'';
+// console.log(x);
+
+/*
+Frage 10
+Was ist das Ergebnis?
+*/
+// const x = ![];
+// console.log(x);
+
+/*
+Frage 11
+Was ist das Ergebnis?
+*/
+// const x = !{};
+// console.log(x);
+
+/*
+Frage 12
+Was ist das Ergebnis?
+*/
+// const x = 4 + '2';
+// console.log(x);
+
+/*
+Frage 13
+Was ist das Ergebnis?
+*/
+// const x = '4' - 2;
+// console.log(x);
+
+/*
+Frage 14
+Was ist das Ergebnis?
+*/
+// const x = 'schnitzel' + 1;
+// console.log(x);
+
+/*
+Frage 16
+Was ist das Ergebnis?
+*/
 // const x = 'schnitzel' - 1;
 // console.log(x);
 
-// Everything else: https://www.destroyallsoftware.com/talks/wat
+/*
+Frage 17
+Was ist das Ergebnis?
+*/
+// const x = 'B' + 'a' + + 'a' + 'a';
+// console.log(x);
+
+// Everything else: 
+// https://www.destroyallsoftware.com/talks/wat
+// https://github.com/denysdovhan/wtfjs

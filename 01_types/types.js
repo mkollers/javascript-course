@@ -86,32 +86,25 @@ Was ist das Ergebnis?
 Frage 12
 Was ist das Ergebnis?
 */
-// const x = ['Foo', 'Bar', 42];
-// console.log(x);
-
-/*
-Frage 13
-Was ist das Ergebnis?
-*/
 // const x = new Date('2019-01-01');
 // console.log(typeof x);
 
 /*
-Frage 14
+Frage 13
 Was ist das Ergebnis?
 */
 // const x = function(y) { console.log(y); };
 // console.log(typeof x);
 
 /*
-Frage 15
+Frage 14
 Was ist das Ergebnis?
 */
 // const x = Infinity;
 // console.log(typeof x);
 
 /*
-Frage 16
+Frage 15
 Was ist das Ergebnis?
 */
 // const x = NaN;

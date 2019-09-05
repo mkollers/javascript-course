@@ -1,4 +1,4 @@
-const fizzBuzz = require('./fizz_buzz');
+const fizzBuzz = require('../01_fizz_buzz');
 
 describe('FizzBuzz', function () {
     for (const i of [3, 6, 9, 12, 18, 21]) {

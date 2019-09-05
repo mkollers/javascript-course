@@ -114,5 +114,5 @@ Was ist das Ergebnis?
 Frage 16
 Was ist das Ergebnis?
 */
-const x = NaN;
-console.log(typeof x);
+// const x = NaN;
+// console.log(typeof x);

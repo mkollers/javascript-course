@@ -40,9 +40,32 @@ Was ist die Ausgabe?
 
 /*
 Frage 5
-Was ist die Ausgabe?
+Was passiert?
 */
-var obj = {
-    a: 1,
-    b: 2
-} 
+// var x = [1,2,3];
+// for (let v of x) {
+//     console.log(v);
+// }
+
+/*
+Frage 6
+Was passiert?
+*/
+// var obj = {
+//     a: 1,
+//     b: 2
+// } 
+// for (let v of obj) {
+//     console.log(v);
+// }
+
+/*
+Frage 7
+Was passiert?
+*/
+// var x = 'abcdef';
+// for (let v of x) {
+//     console.log(v);
+// }
+
+// Additional instructions: do-while, while, switch-case
